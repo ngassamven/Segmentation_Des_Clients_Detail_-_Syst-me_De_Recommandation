@@ -1,5 +1,5 @@
 # Segmentation_Des_Clients_Detail_-_Syst-me_De_Recommandation
-##🚀 Segmentation des Clients et Système de Recommandation pour le Commerce de Détail
+#🚀 Segmentation des Clients et Système de Recommandation pour le Commerce de Détail
 ##🌐 Vue d'ensemble
 Ce dépôt héberge un projet qui plonge profondément dans le secteur dynamique du commerce de détail en ligne, en se concentrant sur un ensemble de données provenant d'un détaillant britannique disponible sur le UCI Machine Learning Repository. Cet ensemble de données inclut toutes les transactions ayant eu lieu entre 2010 et 2011, offrant un riche terreau pour développer des systèmes puissants de segmentation des clients et de recommandation afin d'améliorer les stratégies marketing et d'augmenter les ventes.
 
