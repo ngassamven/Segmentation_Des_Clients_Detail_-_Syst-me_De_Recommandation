@@ -37,6 +37,6 @@ Ouvrir le Notebook : Accédez à Retail_Customer_Segmentation_Recommendation_Sys
 Installer les Dépendances : Assurez-vous que toutes les bibliothèques Python nécessaires sont installées pour une exécution fluide.
 Exécution : Exécutez toutes les cellules du notebook pour observer les résultats et les insights.
 ## 🔗 Ressources Supplémentaires
-## 🌐 Notebook Kaggle : Si vous êtes intéressé par un environnement Kaggle, consultez le notebook ici.
-## 🌐 Source des Données : Accédez à l'ensemble de données original depuis le UCI Machine Learning Repository.
-## 🤝 Connectez-vous sur LinkedIn : Vous avez des questions ou cherchez des collaborations ? N'hésitez pas à vous connecter sur LinkedIn.
+🌐 Notebook Kaggle : Si vous êtes intéressé par un environnement Kaggle, consultez le notebook ici.
+🌐 Source des Données : Accédez à l'ensemble de données original depuis le UCI Machine Learning Repository.
+🤝 Connectez-vous sur LinkedIn : Vous avez des questions ou cherchez des collaborations ? N'hésitez pas à vous connecter sur LinkedIn.
