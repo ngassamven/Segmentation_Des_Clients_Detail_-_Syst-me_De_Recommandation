@@ -27,7 +27,7 @@ InvoiceDate	Date et heure de la transaction.
 UnitPrice	Prix unitaire du produit en livres sterling.
 CustomerID	Identifiant attribué de manière unique à chaque client.
 ## Country	Pays du client.
-** 📁 Descriptions des Fichiers
+📁 Descriptions des Fichiers
 📓 Retail_Customer_Segmentation_Recommendation_System.ipynb : Notebook Jupyter contenant le code pour l'exploration des données, la visualisation, la modélisation et l'évaluation.
 📁 Online_Retail.csv : Fichier CSV contenant l'ensemble de données de commerce en ligne.
 📘 README.md : Ce fichier, fournissant un aperçu du projet.
