@@ -29,9 +29,9 @@ CustomerID	Identifiant attribué de manière unique à chaque client.
 ## Country	Pays du client.
 - 📁 Descriptions des Fichiers
 - 📓 Retail_Customer_Segmentation_Recommendation_System.ipynb : Notebook Jupyter contenant le code pour l'exploration des données, la visualisation, la modélisation et l'évaluation.
-📁 Online_Retail.csv : Fichier CSV contenant l'ensemble de données de commerce en ligne.
-📘 README.md : Ce fichier, fournissant un aperçu du projet.
-🚀 Instructions pour l'Exécution Locale
+- 📁 Online_Retail.csv : Fichier CSV contenant l'ensemble de données de commerce en ligne.
+- 📘 README.md : Ce fichier, fournissant un aperçu du projet.
+##  🚀 Instructions pour l'Exécution Locale
 Cloner ce Dépôt : Commencez par cloner ce dépôt sur votre configuration locale.
 Ouvrir le Notebook : Accédez à Retail_Customer_Segmentation_Recommendation_System.ipynb dans Jupyter.
 Installer les Dépendances : Assurez-vous que toutes les bibliothèques Python nécessaires sont installées pour une exécution fluide.
